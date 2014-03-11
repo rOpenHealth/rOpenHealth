@@ -18,6 +18,7 @@ For the future:
 * UK [Office of National Statistics](http://neighbourhood.statistics.gov.uk/dissemination/Info.do?m=0&s=1370378586129&enc=1&page=nde.htm&nsjs=true&nsck=false&nssvg=false&nswid=1366)
 * [clinicaltrials.gov](http://clinicaltrials.gov/ct2/resources/download)
 * [Openprescribing](http://www.openprescribing.org/api/doc/)
+* [Global Health Data Exchange](http://ghdx.healthmetricsandevaluation.org/)
 * ...
 
 [Here](http://www.programmableweb.com/apis/directory/1?apicat=Medical) is a long list of medical APIs that could have R interfaces
